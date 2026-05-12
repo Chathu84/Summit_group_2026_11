@@ -62,7 +62,7 @@ public_mode_toggle: true
 
 | Name | Affiliation | Contact | Github |
 |Danish Kumar |University of Maryland |dkumar18@umd.edu|dkumar18-umd|
-| | | | |
+|Nayani Ilangakoon | University of Colorado Boulder | ginikanda.ilangakoon@colorado.edu | chathu84 |
 | | | | |
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
